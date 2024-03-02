@@ -7,7 +7,7 @@ Ex-Lead Engineer @ [Unqork](https://unqork.com/)</br></br>
 
 
 🏎️ **Daily Drivers**: JavaScript, TypeScript, Playwright, k6, Jest, Docker, etc. </br></br>
-🌱 **Growing Skills**: Golang & AstroJS </br></br>
+🌱 **Growing Skills**: Zig, Golang, AstroJS </br></br>
 🔨 **Currently Building**: Open source testing frameworks & a tech blog </br></br>
 ⚡️ **Fun fact**: Teammates have described me as calm, consistent, hardworking and easy to work with. So, I'm coining the term _**Equable Engineer**_ as my own </br></br>
 
