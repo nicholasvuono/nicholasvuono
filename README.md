@@ -1,17 +1,32 @@
-## Hello 👋🏻
+### `const wordsToLiveBy = "Let's all strive to be equable 🙏🏻"`
 
-I enjoy building things and making sure they don't break! </br>
+<br>
 
-A Senior Engineer @ [Accumulus Synergy](https://www.accumulus.org/) </br>
-Ex-Lead Engineer @ [Unqork](https://unqork.com/)</br></br>
+```typescript
+let RecentCareer = [
+  {
+    company: "Accumulus Synergy",
+    role: "Senior Engineer",
+    description: "building cool stuff around developer experience, automation frameworks, and performance"
+  },
+  {
+    company: "Unqork",
+    role: "Lead Engineer",
+    description: "built and led the performance engineering program"
+  },
+  ...
+]
+```
+<br>
+
+[![Nicks's Github Stats](https://github-readme-stats.vercel.app/api?username=nicholasvuono&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) </br>
+
+**Maintainer:** [xk6-playwright](https://github.com/nicholasvuono/xk6-playwright) listed [here](https://grafana.com/docs/k6/latest/extensions/explore/)
 
 
-🏎️ **Daily Drivers**: JavaScript, TypeScript, Playwright, k6, Jest, Docker, etc. </br></br>
-🌱 **Growing Skills**: React Native, Golang, AstroJS </br></br>
-🔨 **Currently Building**: Open source testing frameworks & possibly a tech blog </br></br>
-⚡️ **Fun fact**: Teammates have described me as calm, consistent, hardworking and easy to work with. So, I'm coining the term _**Equable Engineer**_ as my own </br></br>
+[LinkedIn](https://www.linkedin.com/in/nick-vuono/) </br>
 
-[LinkedIn](https://www.linkedin.com/in/nick-vuono/) </br></br>
+
 
 <!--[![Nicks's Github Stats](https://github-readme-stats.vercel.app/api?username=nicholasvuono&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasvuono&hide_progress=true)
