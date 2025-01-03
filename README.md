@@ -1,4 +1,4 @@
-### `const wordsToLiveBy = "Let's all strive to be equable 🙏🏻"`
+### `Let's all strive to be equable 🙏🏻`
 
 <br>
 
