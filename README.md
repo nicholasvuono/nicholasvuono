@@ -19,8 +19,6 @@ let RecentCareer = [
 ```
 <br>
 
-[![Nicks's Github Stats](https://github-readme-stats.vercel.app/api?username=nicholasvuono&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) </br>
-
 **Maintainer:** [xk6-playwright](https://github.com/nicholasvuono/xk6-playwright) listed [here](https://grafana.com/docs/k6/latest/extensions/explore/)
 
 
